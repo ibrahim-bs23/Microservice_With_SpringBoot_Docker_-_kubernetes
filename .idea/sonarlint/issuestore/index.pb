@@ -31,3 +31,9 @@ l
 <eureka/src/main/java/com/agent/eureka/EurekaApplication.java,6\e\6e20c5b65ad243da5728f40ffdc26d095126e80e
 >
 eureka/pom.xml,3\0\30f428f04913bd558ce1a35dc4f7699762244c5b
+‚
+Rgatewayserver/src/main/java/com/eazybytes/gatewayserver/filters/FilterUtility.java,f\2\f2cbe7b2ba3b5c6dad17e91a418671b2058089ef
+‡
+Wgatewayserver/src/main/java/com/eazybytes/gatewayserver/filters/RequestTraceFilter.java,5\e\5ed34b502230417aa6e8d5e0b092ebe2e3d1c297
+ˆ
+Xgatewayserver/src/main/java/com/eazybytes/gatewayserver/filters/ResponseTraceFilter.java,8\d\8d0791fbec0c8e8c3237d6d325163701c7b76ea0

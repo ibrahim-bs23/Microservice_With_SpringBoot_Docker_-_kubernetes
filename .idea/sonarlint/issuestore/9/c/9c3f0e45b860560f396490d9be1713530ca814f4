@@ -1,5 +1,9 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜÑ“İùÿÿÿÿ8ğ“Ÿ¹¥2J$e4528dcc-2d4e-4bfb-aa0a-55066cec03f0
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜÑ“İùÿÿÿÿ8ğ“Ÿ¹¥2J$c4fc1f4c-c3c3-4d63-a016-d758e0ee0057
 
-java:S18451"ZRename method "Updateuser" to prevent any misunderstanding/clash with method "updateUser".(ê‚Ç—8ÿ“Ÿ¹¥2J$30ccd84e-8da1-4f81-a477-251863c46043
-	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‚Ç—8‡”Ÿ¹¥2J$6ab9940e-f14d-49b0-9ed5-494b0296c6e8
+java:S18451"ZRename method "Updateuser" to prevent any misunderstanding/clash with method "updateUser".(ê‚Ç—8ÿ“Ÿ¹¥2J$a045d419-48fd-4a91-8b37-3c62910b2e7a
+	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê‚Ç—8‡”Ÿ¹¥2J$65d7a416-59bf-4652-bcfb-48ce5ef934d5
+n
+java:S11689"+Return an empty collection instead of null.(¥¹ï8£í¶¦2J$cb0bc2fd-7ed2-4491-a365-294ad85185a5
+Š
+java:S1128	"BRemove this unused import 'org.apache.coyote.BadRequestException'.(£¯¬ÿûÿÿÿÿ8¥í¶¦2J$93415102-af6a-49a4-8103-2ee618f5d82c
